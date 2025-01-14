@@ -22,7 +22,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me:</h3>
+<h3 align="left">About Me:</h3>
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools:</h3>
+<h3 align="left">Language and tools:</h3>
 
 ###
 
@@ -58,7 +58,7 @@
 
 ###
 
-<h3 align="left">🔧 Frameworks:</h3>
+<h3 align="left">Frameworks:</h3>
 
 ###
 
@@ -76,7 +76,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats:</h3>
+<h3 align="left">My Stats:</h3>
 
 ###
 
@@ -87,7 +87,7 @@
 
 ###
 
-<h3 align="left">🌍 Let's Connect:</h3>
+<h3 align="left">Let's Connect:</h3>
 
 ###
 
