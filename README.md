@@ -1,6 +1,6 @@
 ## Hi there! I'm John Paul C. Varde 👋
 
-Hi there! I'm Paul, a passionate Front-end Developer specializing in creating user-friendly and visually appealing web applications. 
+I'm John Paul C. Varde from Quezon City, Philippines. I am passionate Front-end Developer specializing in creating user-friendly and visually appealing web applications. 
 
 
 <!--
