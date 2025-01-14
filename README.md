@@ -3,18 +3,28 @@
 </div>
 
 <div align="center">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/john-paul-varde/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-%23006699?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=00a6ff" alt="LinkedIn" />
   </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="gmail logo"  />
+  &nbsp;
+  <!-- Gmail -->
+  <a href="mailto:johnpaulvarde@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%23c71610?style=for-the-badge&logo=gmail&logoColor=white&labelColor=ff4131" alt="Gmail" />
   </a>
+  &nbsp;
+  <!-- Facebook -->
   <a href="https://www.facebook.com/johnpaul.varde/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="facebook logo"  />
+    <img src="https://img.shields.io/badge/Facebook-%230b5fcc?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" alt="Facebook" />
   </a>
+</div>
 </div>
 
 <h1 align="center">
+  
+  <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&duration=3000&pause=1000&color=2B97FA&center=true&vCenter=true&random=false&width=435&height=30&lines=Front-End+Developer+%F0%9F%92%BB;BSIT+Graduate+%F0%9F%8E%93;Web+Enthusiast+%F0%9F%8C%9F" alt="Typing SVG" />
+    
   Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm John Paul C. Varde
 </h1>
 
