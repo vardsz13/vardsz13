@@ -1,10 +1,8 @@
 <div align="center">
-  <img height="200" src="https://github.com/vardsz13/vardsz13/blob/main/6066750011678507846.jpg?raw=true"  />
+  <img height="150" src="https://github.com/vardsz13/vardsz13/blob/main/6066750011678507846.jpg?raw=true"  />
 </div>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <a href="https://www.linkedin.com/in/john-paul-varde/" target="_blank">
@@ -49,7 +47,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="25" alt="firebase logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="25" alt="firebase logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql logo"  />
   <img width="12" />
