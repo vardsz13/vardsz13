@@ -1,8 +1,9 @@
-## Hi there 👋
+## Hi there! I'm John Paul C. Varde 👋
 
 <!--
 **vardsz13/vardsz13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Hi there! I'm Paul, a passionate Front-end Developer specializing in creating user-friendly and visually appealing web applications. 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
