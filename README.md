@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I'm John Paul C. Varde from Quezon City, Philippines. I am passionate Front-end Developer specializing in creating user-friendly and visually appealing web applications.<br><br>- 👨🏻‍🎓 I’m BSIT<br>- 📚 I'm currently learning JavaScript and React Typescript<br>- ⚡ Striving to be 1% better every day</p>
+<p align="left"><i>I'm John Paul C. Varde from Quezon City, Philippines. I am passionate Front-end Developer specializing in creating user-friendly and visually appealing web applications.<br><br>- 👨🏻‍🎓 I’m BSIT<br>- 📚 I'm currently learning JavaScript and React Typescript<br>- ⚡ Striving to be 1% better every day</i></p>
 
 ###
 
@@ -93,7 +93,7 @@
 
 ###
 
-<p align="left">I'm always open to learning, collaborating, and contributing to exciting projects. Feel free to connect with me here:</p>
+<p align="left"><i>I'm always open to learning, collaborating, and contributing to exciting projects. Feel free to connect with me here:</i></p>
 
 ###
 
