@@ -1,10 +1,6 @@
 <div align="center">
-  <img height="200" src="https://github.com/vardsz13/vardsz13/blob/main/6066750011678507846.jpg?raw=true"  />
+  <img height="200" src="https://github.com/vardsz13/vardsz13/blob/main/6066750011678507846.jpg?raw=true" />
 </div>
-
-###
-
-<br clear="both">
 
 <div align="center">
   <a href="https://www.linkedin.com/in/john-paul-varde/" target="_blank">
@@ -18,97 +14,74 @@
   </a>
 </div>
 
-###
+<h1 align="center">
+  Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm John Paul C. Varde
+</h1>
 
-<h1 align="center">Hi there, I'm John Paul C. Varde 👋</h1>
+<p align="center">
+  <b>🚀 Front-End Developer | 💻 BSIT Graduate | 🌟 Web Enthusiast</b>
+</p>
 
-###
+## 👨‍💻 About Me
 
-<h3 align="left">Front-End Developer</h3>
+> *Front-end developer from Quezon City, Philippines, passionate about creating user-friendly and visually appealing web applications.*
 
-###
+- 🎓 Bachelor of Science in Information Technology
+- 📚 Currently mastering JavaScript and React TypeScript
+- ⚡ Living by the motto: "Striving to be 1% better every day"
+- 🌱 Always excited to learn new technologies and best practices
+- 🤝 Open to collaborating on innovative web projects
 
-<p align="left"><i>I'm John Paul C. Varde from Quezon City, Philippines. I am passionate Front-end Developer specializing in creating user-friendly and visually appealing web applications.<br><br>- 👨🏻‍🎓 I’m BSIT<br>- 📚 I'm currently learning JavaScript and React Typescript<br>- ⚡ Striving to be 1% better every day</i></p>
+## 🛠️ Tech Stack
 
-###
+### 💻 Languages
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
-<h3 align="left">Language and tools:</h3>
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
-###
+### 🎨 Design & Development Tools
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
-  <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
-  <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="javascript logo"  />
-  <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="25" alt="figma logo"  />
-  <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="25" alt="dart logo"  />
-  <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
-  <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="25" alt="firebase logo"  />
-  <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql logo"  />
-  <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="25" alt="php logo"  />
-  <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="25" alt="typescript logo"  />
-</div>
+### ⚡ Frameworks
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-###
-
-<h3 align="left">Frameworks:</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="25" alt="flutter logo"  />
-  <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
-  <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="25" alt="laravel logo"  />
-  <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="25" alt="bootstrap logo"  />
-  <img width="4" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="25" alt="tailwindcss logo"  />
-</div>
-
-###
-
-<h3 align="left">My Stats:</h3>
-
-###
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vardsz13&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vardsz13&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=vardsz13&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vardsz13&layout=compact&theme=dracula&hide_border=false" alt="Top Languages" height="170" />
 </div>
 
-###
+## 🤝 Let's Connect!
 
-<h3 align="left">Let's Connect:</h3>
-
-###
-
-<p align="left"><i>I'm always open to learning, collaborating, and contributing to exciting projects. Feel free to connect with me here:</i></p>
-
-###
+<p align="left">
+  <i>I'm always eager to learn, collaborate, and contribute to exciting projects. Let's create something amazing together!</i>
+</p>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/john-paul-varde/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="29" height="25" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="29" height="25" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.facebook.com/johnpaul.varde/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="29" height="25" alt="facebook logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
 </div>
 
-###
-
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vardsz13&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
