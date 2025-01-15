@@ -22,8 +22,10 @@
 
 <h1 align="center">
   
-  <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&duration=3000&pause=1000&color=2B97FA&center=true&vCenter=true&random=false&width=435&height=30&lines=Front-End+Developer+%F0%9F%92%BB;BSIT+Graduate+%F0%9F%8E%93;Web+Enthusiast+%F0%9F%8C%9F" alt="Typing SVG" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&duration=3500&pause=800&color=2B97FA&center=true&vCenter=true&random=false&width=600&height=30&lines=Message+me+on+my+social+media+:);I'm+always+down+to+collab+%E2%98%95%EF%B8%8F;Thanks+for+visiting+%E2%9C%8C%EF%B8%8F" alt="Typing SVG" />
+</div>
+
     
   Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm John Paul C. Varde
 </h1>
