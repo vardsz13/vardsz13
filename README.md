@@ -36,7 +36,7 @@
 
 ## 👨‍💻 About Me
 
-> *Front-end developer from Quezon City, Philippines, passionate about creating user-friendly and visually appealing web applications.*
+> *Front-end developer from Quezon City, Philippines, passionate about transforming ideas into reality.*
 
 - 🎓 Bachelor of Science in Information Technology
 - 📚 Currently mastering JavaScript and React TypeScript
